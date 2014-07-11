@@ -1,0 +1,17 @@
+{
+  "name": "jsast",
+  "description": "a simple js parser",
+  "version": "0.0.1",
+  "engines": { "node" : ">=0.8.0" },
+  "maintainers": [],
+  "repository": "https://github.com/fishbar/jsast.git",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}
